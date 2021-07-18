@@ -726,7 +726,7 @@ button:focus{
 
 
 /* Services Part */
-.about-m-1{
+/* .about-m-1{
 	border: 2px solid #00cb86;
 	box-shadow: 0 10px 25px 0 rgba(0,0,40,.2);
 }
@@ -736,7 +736,7 @@ button:focus{
   width: 100%;
   height: 450px;
   /* overflow: hidden; */
-  margin: 0 auto;
+  /* margin: 0 auto;
 }
 
 .about-m-1 ul#banner li {
@@ -752,13 +752,13 @@ button:focus{
 
 .about-m-1 ul#banner li img { 
 	/* visibility: hidden;  */
-	width: 100%;
+	/* width: 100%;
 	height: 450px;
 	overflow: hidden;
   margin: 0 auto;
-}
+} */ 
 
-.about-m-1 ul#banner {
+/* .about-m-1 ul#banner {
   position: relative;
   width: 100%;
   height: 450px;
@@ -797,9 +797,9 @@ button:focus{
 
 .services-img img{
 	border-radius: 10px;
-}
+} */
 
-.about-m-1 ul{
+/* .about-m-1 ul{
 	display: block;
 	text-align: center;
 	padding-bottom: 30px;
@@ -823,7 +823,7 @@ button:focus{
 .about-m-1 ul li a:hover{
 	background: #333333;
 	color: #ffffff;
-}
+} */
   /* End of services */
 
 
